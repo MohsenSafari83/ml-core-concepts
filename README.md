@@ -7,25 +7,21 @@ The goal is to create a structured and beginner-friendly resource that covers th
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 1. [Overfitting vs Underfitting](#overfitting-vs-underfitting)  
 2. [Bias-Variance Tradeoff](#bias-variance-tradeoff)  
 3. [Gradient Descent](#gradient-descent)  
    - What is Gradient Descent?  
    - Types of Gradient Descent (Batch, Stochastic, Mini-Batch)  
    - Learning Rate and its effect  
-4. [Optimization Algorithms](#optimization-algorithms)  
-   - Momentum  
-   - RMSProp  
-   - Adam  
-5. [Loss Functions](#loss-functions)  
+4  [Loss Functions](#loss-functions)  
    - MSE, MAE, Hinge Loss  
-6. [Distance Measures](#distance-measures)  
+5. [Distance Measures](#distance-measures)  
    - Euclidean Distance  
    - Minkowski Distance  
    - Cosine Distance/Similarity  
-7. [Regularization](#regularization)  
-8. [Softmax and Cost Function](#softmax-and-cost-function)  
+6. [Regularization](#regularization)  
+7. [Softmax and Cost Function](#softmax-and-cost-function)  
 
 ---
 
@@ -40,12 +36,6 @@ The goal is to create a structured and beginner-friendly resource that covers th
 ### Gradient Descent
 *(Explanation will be added here)*
 
-### Optimization Algorithms
-*(Explanation will be added here)*
-
-### Loss Functions
-*(Explanation will be added here)*
-
 ### Distance Measures
 *(Explanation will be added here)*
 
@@ -57,5 +47,5 @@ The goal is to create a structured and beginner-friendly resource that covers th
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the [MIT License](LICENSE).  
