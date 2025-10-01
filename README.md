@@ -14,7 +14,7 @@ The goal is to create a structured and beginner-friendly resource that covers th
    - What is Gradient Descent?  
    - Types of Gradient Descent (Batch, Stochastic, Mini-Batch)  
    - Learning Rate and its effect  
-4  [Loss Functions](#loss-functions)  
+4. [Loss Functions](#loss-functions)  
    - MSE, MAE, Hinge Loss  
 5. [Distance Measures](#distance-measures)  
    - Euclidean Distance  
