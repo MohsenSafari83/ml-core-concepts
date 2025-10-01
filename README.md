@@ -1,7 +1,3 @@
-# ml-core-concepts
-Clear explanations of fundamental Machine Learning concepts such as overfitting, gradient descent, loss functions, regularization, optimization algorithms, and more.
-# Machine Learning Essentials
-
 This repository provides clear explanations of fundamental concepts in **Machine Learning**.  
 The goal is to create a structured and beginner-friendly resource that covers the most important building blocks of ML models and techniques.  
 
